@@ -57,3 +57,37 @@ CI stands for continuous integration. It is a software development process where
 CI aims to detect issues early and ensure the codebase always works. By integrating code changes often, developers can identify and fix problems faster. This makes building, testing, and deploying the software easier.
 
 
+##### 8. Name three important DevOps KPIs.
+
+Three of the most common DevOps KPIs are:
+* Meantime to failure recovery
+* Deployment frequency
+* Percentage of failed deployments
+
+#### Intermediate DevOps Interview Questions
+
+##### 9. Name some of the most important DevOps tools.
+
+This is a list of the most important DevOps Tools being used:
+* Git
+* Maven
+* Selenium
+* Jenkins
+* Docker
+* Puppet
+* Chef
+* Ansible
+* Nagios
+
+##### 10. What are the core principles of DevOps?
+
+The core principles of DevOps include continuous integration, continuous delivery, automation, collaboration, and monitoring. DevOps teams work together to automate as much of the software development process as possible, making it faster, more reliable, and more efficient.
+They also collaborate closely to ensure everyone is on the same page and continuously working to improve the software through continuous monitoring and feedback loops.
+
+##### 11. How do you measure the success of DevOps implementation?
+
+To evaluate the success of a DevOps implementation, we can use key indicators such as the frequency of changes, the speed of implementation, error recovery time, and the incidents of issues arising from changes. These metrics enable us to assess the efficiency and effectiveness of our software development process. We can also ask for feedback from team members and clients to measure the satisfaction level with the software and its functionality.
+
+##### 12. What is continuous delivery?
+
+Continuous delivery is a software development practice that automates the release process. Its primary objective is to ensure that software is consistently prepared for deployment to production. This means that code changes are frequently integrated, built, tested, and deployed in a repeatable and automated manner. It helps the teams to reduce the time and effort required to release software while maintaining high quality and reliability. With continuous delivery, teams can release software more frequently and confidently.
