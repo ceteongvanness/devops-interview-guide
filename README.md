@@ -39,3 +39,21 @@ The core operations of DevOps include:
 * Monitoring
 * Feedback
 
+##### 6. What are some technical and business benefits of DevOps?
+
+###### Technical benefits:
+* Continuous software delivery
+* Less complex problems to fix
+* Faster bug resolution
+
+###### Business benefits:
+* Faster delivery of features for customer satisfaction
+* More stable operating environments
+* More time available to add product value
+
+##### 7. What is CI? What is its purpose?
+
+CI stands for continuous integration. It is a software development process where developers frequently merge code changes into a central repository.
+CI aims to detect issues early and ensure the codebase always works. By integrating code changes often, developers can identify and fix problems faster. This makes building, testing, and deploying the software easier.
+
+
