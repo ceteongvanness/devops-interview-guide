@@ -103,3 +103,26 @@ Continuous deployment is a software development practice where code changes are 
 ![Example Image](images/image1.png)
 
 While continuous deployment is fully automated, continuous delivery provides the flexibility to choose when and how to release code changes, even though the process is automated.
+
+##### 14. What is infrastructure as code?
+
+Infrastructure as code (IaC) is a practice where infrastructure is defined and managed using code. Instead of manually configuring servers and infrastructure components, IaC allows teams to automate the provisioning, configuration, and deployment of infrastructure using code.
+
+This approach helps teams achieve consistency, reduce errors, and increase speed and efficiency. IaC also enables teams to version control their infrastructure code, making it easier to track changes and collaborate.
+
+##### 15. Is DevOps a tool?
+
+DevOps can’t be referred to as a tool; it is a collaborative work culture that combines development and operations teams for continuous development, testing, integration, deployment, and monito
+
+##### 16. What is a DevOps pipeline?
+
+A DevOps pipeline is a series of automated procedures that enable software development teams to quickly and efficiently develop, test, and deliver applications. A pipeline often has numerous steps, including code analysis, building, testing, packaging, and deployment. The pipeline’s stages are all automated, and changes to the code are always carried over from one stage to the next.
+
+##### 17. How would you ensure your DevOps pipeline is scalable and can handle increased demand?
+
+You can take the following actions to ensure a DevOps pipeline is scalable and can cope with rising demand:
+* Utilize cloud-based resources and tools to aid scalability
+* Improve the scalability of the pipeline’s architecture and design
+* Use orchestration and automation to increase efficiency
+* Track pipeline performance and find areas for improvement using performance monitoring and analytics
+* Test and validate the pipeline frequently to ensure it can handle rising demand and workloads.
