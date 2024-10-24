@@ -20,6 +20,7 @@ Moreover, they ensure that everything in the development and operations process 
 ##### 3. How does DevOps differ from traditional software development methodologies?
 
 DevOps differs from traditional software development methodologies in its collaboration, automation, and continuous delivery. Instead of having separate teams for development and operations, DevOps promotes cross-functional teams that work together to streamline the entire software development process.
+
 DevOps also relies heavily on automation tools and techniques to accelerate development and ensure consistency, quality, and reliability in every lifecycle stage.
 
 ##### 4. How does HTTP work?
@@ -54,6 +55,7 @@ The core operations of DevOps include:
 ##### 7. What is CI? What is its purpose?
 
 CI stands for continuous integration. It is a software development process where developers frequently merge code changes into a central repository.
+
 CI aims to detect issues early and ensure the codebase always works. By integrating code changes often, developers can identify and fix problems faster. This makes building, testing, and deploying the software easier.
 
 
@@ -82,6 +84,7 @@ This is a list of the most important DevOps Tools being used:
 ##### 10. What are the core principles of DevOps?
 
 The core principles of DevOps include continuous integration, continuous delivery, automation, collaboration, and monitoring. DevOps teams work together to automate as much of the software development process as possible, making it faster, more reliable, and more efficient.
+
 They also collaborate closely to ensure everyone is on the same page and continuously working to improve the software through continuous monitoring and feedback loops.
 
 ##### 11. How do you measure the success of DevOps implementation?
@@ -91,3 +94,9 @@ To evaluate the success of a DevOps implementation, we can use key indicators su
 ##### 12. What is continuous delivery?
 
 Continuous delivery is a software development practice that automates the release process. Its primary objective is to ensure that software is consistently prepared for deployment to production. This means that code changes are frequently integrated, built, tested, and deployed in a repeatable and automated manner. It helps the teams to reduce the time and effort required to release software while maintaining high quality and reliability. With continuous delivery, teams can release software more frequently and confidently.
+
+##### 13. What is continuous delivery?
+
+Continuous deployment is a software development practice where code changes are automatically deployed to production as soon as they pass the necessary tests and checks. Continuous delivery, on the other hand, focuses on automating the software release process but allows for manual intervention to determine when and how code changes are deployed to production.
+
+While continuous deployment is fully automated, continuous delivery provides the flexibility to choose when and how to release code changes, even though the process is automated.
