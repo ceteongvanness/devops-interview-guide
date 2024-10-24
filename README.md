@@ -11,6 +11,7 @@ Basic DevOps Interview Questions for Freshers.
 | Benefits       | Speed, functionality, stability, and innovation                                       |
 
 2. How do you define the role of a DevOps engineer?
+
 A DevOps engineer is responsible for bridging the gap between the development and operations teams by facilitating the delivery of high-quality software products. They use automation tools and techniques to streamline the software development lifecycle, monitor and optimize system performance, and ensure continuous deployment and delivery.
 Moreover, they ensure that everything in the development and operations process runs smoothly.
 
