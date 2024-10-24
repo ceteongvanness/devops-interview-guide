@@ -15,6 +15,7 @@
 ##### 2. How do you define the role of a DevOps engineer?
 
 A DevOps engineer is responsible for bridging the gap between the development and operations teams by facilitating the delivery of high-quality software products. They use automation tools and techniques to streamline the software development lifecycle, monitor and optimize system performance, and ensure continuous deployment and delivery.
+
 Moreover, they ensure that everything in the development and operations process runs smoothly.
 
 ##### 3. How does DevOps differ from traditional software development methodologies?
@@ -99,6 +100,6 @@ Continuous delivery is a software development practice that automates the releas
 
 Continuous deployment is a software development practice where code changes are automatically deployed to production as soon as they pass the necessary tests and checks. Continuous delivery, on the other hand, focuses on automating the software release process but allows for manual intervention to determine when and how code changes are deployed to production.
 
-![Example Image](image/image1.png)
+![Example Image](images/image1.png)
 
 While continuous deployment is fully automated, continuous delivery provides the flexibility to choose when and how to release code changes, even though the process is automated.
